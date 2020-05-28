@@ -40,4 +40,4 @@ create table if not exists usuarios (
     PRIMARY key(id_usuario)
     );
 
-    ALTER TABLE usuarios MODIFY senha_usuario varchar(40);
+    ALTER TABLE usuarios MODIFY senha_usuario varchar(60);
