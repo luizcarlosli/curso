@@ -62,7 +62,7 @@
 
         <hr>
         <div style="text-align: left">
-            <a href="../index.php" class="btn btn-outline-dark btn-sm">Home</a>
+            <a href="../menu.php" class="btn btn-outline-dark btn-sm">Home</a>
             
             </div>
 

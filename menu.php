@@ -93,7 +93,27 @@
           </div>
         </div>
 
+        <div class="col-sm-8 mt-4">
 
+
+          <?php
+
+          //Para poder utilizar a senha como hash e ver se esta sendo verificado...
+
+          // $password1 = password_hash("Luiz Carlos Lima da Silva", PASSWORD_DEFAULT);
+          // echo $password1;
+
+          // $hash = $password1;
+          // echo '</br>';
+          // if (password_verify('Luiz Carlos', $password1)) {
+          //   echo 'Password é válido';
+          // } else {
+          //   echo 'Password é inválido';
+          // }
+
+          ?>
+
+        </div>
       </div>
 
     </div>
